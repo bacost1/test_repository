@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 hello_world!!!!!
 have a good day!!
 You're cool!! 
+=======
+hello_world
+have a good day!
+You're cool!
+1234
+155551
+
+>>>>>>> 5021a805c490347a6562c403541477d9680bf072
